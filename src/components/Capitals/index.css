@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.main-container {
+  padding: 60px;
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner-container {
+  padding: 20px;
+  background-color: #f8fafc;
+  width: 600px;
+  height: 300px;
+  border-radius: 30px;
+}
